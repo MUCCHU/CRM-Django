@@ -21,8 +21,7 @@
 
 # Screenshots of the Project
 <p align="center">
-  <img width="660" height="300" src="static/screenshots/c.png">
-  <img width="660" height="300" src="static/screenshots/a.png">
-  <img width="660" height="300" src="static/screenshots/b.png">
-  <img width="660" height="300" src="static/screenshots/d.png">
+  <img width="660" height="300" src="static/screenshots/login.png">
+  <img width="660" height="300" src="static/screenshots/dashboard.png">
+  <img width="660" height="300" src="static/screenshots/products.png">
 </p>
